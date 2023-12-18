@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    color: violet;
+}
+.description{
+    color: brown;
+}
